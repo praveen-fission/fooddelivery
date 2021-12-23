@@ -135,6 +135,7 @@ export default {
     },
   },
 };
+alert('You have to register first');;;;;;;
 </script>
 
 <style scoped>
